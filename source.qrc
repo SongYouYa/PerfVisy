@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qmlsrc/main.qml</file>
+        <file>qmlsrc/ArrowCanvas.qml</file>
+        <file>qmlsrc/HomeForm.qml</file>
+        <file>qmlsrc/InteractiveListDelegate.qml</file>
+        <file>qmlsrc/RecentItemDelegate.qml</file>
+        <file>qmlsrc/RecentScreenFHC.qml</file>
+        <file>qmlsrc/RecentScreenQuickControl.qml</file>
+        <file>15inch/icon-50-recents-dark-blue.png</file>
+        <file>15inch/icon-60-delete-dark-blue.png</file>
+        <file>themeloader.h</file>
+        <file>themeloader.cpp</file>
+    </qresource>
+</RCC>
